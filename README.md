@@ -1,2 +1,2 @@
 # Modern-Residential-Tower--Electrical-and-Civil-Infrastructure-Design
-The "Modern Residential Tower - Electrical and Civil Infrastructure Design" project aims to create a comprehensive plan for the electrical and civil aspects of a 10-storied building, ensuring efficient power distribution, safety, and integration of modern technologies for a comfortable living environment.
+Develop an efficient plan for the electrical and civil infrastructure of a 10-story residential tower using AutoCAD 2022, ensuring safety, modern technology integration, and a comfortable living environment.
